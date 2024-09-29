@@ -43,6 +43,14 @@ git checkout main
 git merge upstream/main
 ```
 
+## 101 on tmux
+
+To split in two creating a vertical line:
+```
+CTRL + B + "
+```
+You need to press them sequencially.
+
 ## References
 
 - https://www.collabora.com/news-and-blog/blog/2017/01/16/setting-up-qemu-kvm-for-kernel-development/

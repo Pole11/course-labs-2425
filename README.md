@@ -34,6 +34,14 @@ To run such kernel with the created ramdisk run
 $ stage/start-qemu.sh --arch amd64   
 ```
 
+## 101 on forks
+
+```
+git remote add upstream https://github.com/polimi-aos-lab/course-labs-2425.git
+git fetch upstream
+git checkout main
+git merge upstream/main
+```
 
 ## References
 

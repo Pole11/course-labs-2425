@@ -7,6 +7,12 @@ These instructions will get you up and running with a working kernel that can be
 T=amd64 make build-container
 ```
 
+To install some usefull programs, add `E=full`, like this:
+
+```
+E=full T=amd64 make build-container
+```
+
 ## Generating and running your first kernel image
 To compile the kernel image (and a boot disc called `initramfs`):
 ```

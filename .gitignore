@@ -10,4 +10,6 @@ compile_commands.json
 compile_commands.json.in
 Module.symvers
 modules.order
+/stage/initramfs-busybox-amd64.cpio.gz
+/stage/perf
 

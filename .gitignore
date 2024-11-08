@@ -13,3 +13,5 @@ modules.order
 /stage/initramfs-busybox-amd64.cpio.gz
 /stage/perf
 
+stage/perf
+
